@@ -1,0 +1,67 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+  background:  #F5CFFF;
+  /* background-image: url("https://thumbs.gfycat.com/AcceptableDefiantAfricanparadiseflycatcher-size_restricted.gif"); */
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h2{
+  text-align: center;
+  margin-left: px;
+  font-size: xx-large;
+  
+}
+a{
+  margin-left: 50px;
+}
+input{
+  height: 24px;
+}
+label{
+  display: inline-block;
+  text-align: center;
+  
+  width: 49px;
+height: 30px;
+background: #BB77CC;
+border: 1px solid #000000;
+border-radius: 2ch 0px 0px 2ch;
+}
+input {
+  position: absolute;
+width: 100px;
+height: 30px;
+
+background: #FEE1FF;
+border: 1px solid #000000;
+border-radius: 0px 2ch 2ch 0ch;
+}
+a {
+  margin-top: 10px;
+  min-width: 9rem;
+  padding:0.5rem;
+  border-radius: 0.9rem;
+  border: solid 1px #aaa;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(194, 88, 176);}
+
+
+a{
+  color: #000;
+  background-color:#BB77CC;
+}
+#gamename{
+  text-align: center;
+} 
+
+

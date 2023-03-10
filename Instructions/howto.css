@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+
+}
+body{
+  background:  #F5CFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+#gamename{
+  text-align: center;
+}
+a {
+ 
+  min-width: 9rem;
+  padding:0.5rem;
+  border-radius: 0.9rem;
+  border: solid 1px #aaa;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  background-color:#BB77CC;
+  margin-top: 30px;
+}
+
+#b2g-btn{
+  margin: auto;
+  width: 20%;
+}
+
+#container{
+  margin-top: 100px;
+  width: 900px;
+
+}
